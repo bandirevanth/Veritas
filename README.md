@@ -1,6 +1,6 @@
-# 🧠 Veritas: AI Fact-Checker Agent
+# Veritas: AI Fact-Checker Agent
 
-## 🔍 Overview
+## Overview
 This project is an AI-powered fact-checking system that uses **LangGraph**, **OpenAI GPT-4o**, and **Perplexity AI** to verify factual claims. It builds a verification workflow graph that plans, queries, and adjudicates claims via multiple agents, then displays results in a Streamlit dashboard.
 
 ## ⚙️ Features
@@ -10,7 +10,7 @@ This project is an AI-powered fact-checking system that uses **LangGraph**, **Op
 - ✅ Citations returned in JSON format
 - ✅ User-friendly Streamlit dashboard
 
-## 🧠 Tech Stack
+## Tech Stack
 - Python 3.x
 - LangGraph
 - OpenAI (gpt-4o)
