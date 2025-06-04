@@ -11,7 +11,7 @@ This project is an AI-powered fact-checking system that uses **LangGraph**, **Op
 - ✅ User-friendly Streamlit dashboard
 
 ## Tech Stack
-- Python 3.x
+- Python
 - LangGraph
 - OpenAI (gpt-4o)
 - Perplexity (sonar-reasoning)
