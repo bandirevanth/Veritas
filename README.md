@@ -10,7 +10,7 @@ This project is an AI-powered fact-checking system that uses **LangGraph**, **Op
 - ✅ Citations returned in JSON format
 - ✅ User-friendly Streamlit dashboard
 
-## Tech Stack
+## 📚 Tech Stack
 - Python
 - LangGraph
 - OpenAI (gpt-4o)
