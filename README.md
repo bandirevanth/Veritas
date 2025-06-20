@@ -35,3 +35,7 @@ Then run:
 ```bash
 streamlit run fact-checker.py
 ```
+
+---
+
+Don't forget to star me on GitHub and follow me! Thanks :)
